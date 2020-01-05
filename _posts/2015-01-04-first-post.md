@@ -4,4 +4,8 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+## Not a Snowflake
+
+*You are not unique, You are not special.
+We're all same composed organic heap .
+We're all-singing all-dancing craps of the world*
